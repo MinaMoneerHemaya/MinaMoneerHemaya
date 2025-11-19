@@ -1,10 +1,19 @@
-# Hi there, I'm Mina Moneer 👋
+<h1 align="center">Hello, I'm Mina Moneer</h1>
 
 <div align="center">
 <a href="https://linkedin.com/in/minamoneer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=SFE+Specialist;Data+Analyst;Commercial+Excellence+Enthusiast;Power+BI+%7C+Excel+%7C+CRM+Analytics;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=SFE+Specialist;Data+Analyst;" alt="Typing SVG" />
 </a>
 </div>
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MinaMoneerHemaya&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MinaMoneerHemaya)
+[![GitHub Followers](https://img.shields.io/github/followers/MinaMoneerHemaya?style=social)](https://github.com/MinaMoneerHemaya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/minamoneer)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:minamoneerbot@email.com)
+
+</div>
+
 
 ## 🚀 About Me
 
