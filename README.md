@@ -77,8 +77,7 @@ What drives me is **bridging the gap between business strategy and analytics**â€
 
 </div>
 
-[![Snake animation](https://raw.githubusercontent.com/MinaMoneerHemaya/MinaMoneerHemaya/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/MinaMoneerHemaya/MinaMoneerHemaya/output/github-contribution-grid-snake-dark.svg
-)
+![Snake animation](https://raw.githubusercontent.com/MinaMoneerHemaya/MinaMoneerHemaya/output/snake-dark.svg)
 
 
 
