@@ -17,30 +17,16 @@
 
 ## 🚀 About Me
 
-I’m an **SFE Specialist & Data Analyst** working at **ORA Pharmaceuticals**, with over **7 years of experience** in the pharmaceutical industry — transitioning from frontline sales to driving **data-driven commercial excellence**.
+I’m an **SFE Specialist & Data Analyst** at **ORA Pharmaceuticals**, with over **7 years of experience** in the pharmaceutical industry, transitioning from frontline sales to driving **data-driven commercial excellence**.
 
-My mission is simple:  
-**Transform data into clear insights that support smarter, evidence-based strategic decisions.**
+I build **Power BI dashboards**, automate reporting workflows, manage KPIs, and extract insights using **Excel, CRM Analytics, Python, and SQL** to support strategic commercial decisions.
 
-Through tools like **Power BI, Excel, CRM Analytics, Python, and SQL**, I build dashboards, automate reporting, evaluate KPIs, and uncover insights that help organizations grow.
+I am also **passionate about Data Science, Machine Learning, and Artificial Intelligence**, with a strong ambition to grow into a **Data Scientist** and expand my technical expertise.
 
-**What drives me:**  
-Bridging the gap between business strategy and analytics, simplifying data, enabling teams, and turning numbers into actions.
+What drives me is **bridging the gap between business strategy and analytics**— simplifying data, enabling teams, and turning numbers into actionable decisions.
 
 ---
 
-## 📌 Quick Links
-
-<p align="center">
-  <a href="https://linkedin.com/in/minamoneer" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:minamoneerbot@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email_Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
 
 ## 💼 Expertise Areas
 
