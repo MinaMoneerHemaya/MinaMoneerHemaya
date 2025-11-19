@@ -25,95 +25,55 @@ I am also **passionate about Data Science, Machine Learning, and Artificial Inte
 
 What drives me is **bridging the gap between business strategy and analytics**— simplifying data, enabling teams, and turning numbers into actionable decisions.
 
----
 
+## 🛠️ Tech Stack
 
-## 💼 Expertise Areas
+### Programming Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
 
-| Category | Skills |
-|----------|--------|
-| **Data Analytics** | Power BI, Excel, KPI Tracking, SFE Analytics, CRM Insights |
-| **Programming** | Python, SQL |
-| **Commercial Excellence** | Territory Analysis, ROI Tracking, KPI Dashboards |
-| **Reporting Automation** | Power Query, Excel Automation |
-| **Soft Skills** | Storytelling, Training, Communication |
+### Data Science & ML
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+</div>
 
----
-
-## 🛠️ Tools & Technologies
-
-### Data Analytics & BI
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRM_Analytics-0A66C2?style=for-the-badge&logo=salesforce&logoColor=white" />
-</p>
-
-### Scripting & Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### Professional Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Training-00A86B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Storytelling-5C3EE8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Analysis-2980B9?style=for-the-badge" />
-</p>
-
----
-
-## 🧩 Key Achievements
-
-- ⚡ **Automated SFE reporting** with Power Query → saved **6+ hours weekly**
-- 📊 Built interactive **Power BI dashboards** for ROI, KPIs, and territory performance
-- 🎯 Supported management with insights that improved strategic planning
-- 🎤 Delivered training to simplify data concepts and empower teams
-- 📈 Enhanced CRM data quality & performance tracking
+### Tools & Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+</div>
 
 ---
 
-## 💼 Experience
+## 📈 GitHub Stats
 
-### **ORA Pharmaceuticals**
-- **SFE Specialist & Sales Analyst** (2024 – Present)  
-- **Senior Medical Representative** (2023 – Present)
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahmen-Elashry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+<img src="https://streak-stats.demolab.com?user=Abdelrahmen-Elashry&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahmen-Elashry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
-### **MACRO Group Pharmaceuticals**
-- **Senior Medical Representative** (2019 – 2023)
+</div>
 
-### **Sato Pharma**
-- **Medical Representative** (2017 – 2019)
+![Snake Animation](https://github.com/Abdelrahmen-Elashry/Abdelrahmen-Elashry/blob/output/snake-dark.svg)
 
----
-
-## 🎓 Education
-
-**Bachelor's Degree in Chemistry**  
-Alexandria University (2011 – 2015)
-
----
-
-## 🎯 Certifications
-
-- Google Data Analytics  
-- IBM Data Analyst  
-- ISTQB® Foundation Level  
-- TOT – Arab Academy  
-
----
-
-## 🤝 Let's Connect
-
-Interested in:
-- Data analytics collaborations  
-- Commercial excellence improvement  
-- Dashboard building  
-- Reporting automation projects  
-
-📧 **Email:** minamoneerbot@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/minamoneer  
-
----
 
