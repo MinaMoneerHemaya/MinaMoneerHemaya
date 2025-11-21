@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I’m an **SFE Specialist & Data Analyst** at **ORA Pharmaceuticals**, with over **7 years of experience** in the pharmaceutical industry, transitioning from frontline sales to driving **data-driven commercial excellence**.
+I’m a **SFE Specialist & Data Analyst** at **ORA Pharmaceuticals**, with over **7 years of experience** in the pharmaceutical industry, transitioning from frontline sales to driving **data-driven commercial excellence**.
 
 I build **Power BI dashboards**, automate reporting workflows, manage KPIs, and extract insights using **Excel, CRM Analytics, Python, and SQL** to support strategic commercial decisions.
 
@@ -25,7 +25,7 @@ I am also **passionate about Data Science, Machine Learning, and Artificial Inte
 
 What drives me is **bridging the gap between business strategy and analytics**— simplifying data, enabling teams, and turning numbers into actionable decisions.
 
-- 📫 **Reach me at:** abdelrahmenelashry@email.com 
+- 📫 **Reach me at:** minamoneerbot@gmail.com 
 
 
 ## 🛠️ Tech Stack
